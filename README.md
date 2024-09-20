@@ -37,11 +37,11 @@ The project at its core is built on MERN Stack which stands for (MongoDB, Expres
 ## Screenshots (Desktop) :computer:
 |||
 |:----------------------------------------:|:-----------------------------------------: |
-| ![](./ChatMania_Images/First_Page_Home.png) | ![](./ChatMania_Images/Login-Page.png) | 
-| ![](./ChatMania_Images/signup.png) 
-| ![](./ChatMania_Images/One-to-One%20chat.png) | ![](./ChatMania_Images/Group_chat.png)  
-| ![](./ChatMania_Images/User1_interface.png) |  ![](./ChatMania_Images/Group-Chat-Testing.png)
-| ![](./ChatMania_Images/User2_interface.png) 
+| ![](./ChatMania-main/ChatMania_Images/First_Page_Home.png) | ![](./ChatMania-main/ChatMania_Images/Login-Page.png) | 
+| ![](./ChatMania-main/ChatMania_Images/signup.png) 
+| ![](./ChatMania-main/ChatMania_Images/One-to-One%20chat.png) | ![](./ChatMania-main/ChatMania_Images/Group_chat.png)  
+| ![](./ChatMania-main/ChatMania_Images/User1_interface.png) |  ![](./ChatMania-main/ChatMania_Images/Group-Chat-Testing.png)
+| ![](./ChatMania-main/ChatMania_Images/User2_interface.png) 
 
 
 ## Supporting Libraries / Frameworks / Packages used &nbsp; 🛠
